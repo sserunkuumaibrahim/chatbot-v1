@@ -3,3 +3,6 @@ node_modules/
 dist/
 *.logml-training/venv/
 *.dylib
+ml-training/venv/
+ml-training/venv/
+*.dylib
