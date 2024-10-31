@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/socket.io": "^3.0.1"
+  },
+  "dependencies": {
+    "@chakra-ui/theme-utils": "^2.0.21"
+  },
+  "scripts": {
+    "test": "jest --runInBand"
+  }
+}
